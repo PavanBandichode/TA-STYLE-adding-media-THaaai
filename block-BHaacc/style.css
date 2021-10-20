@@ -70,9 +70,9 @@ body{
 }
 /*header*/
 .header{
-    background-image: url(assets/home-bg.jpg);
-    background-size: contain;
-    background-image: linear-gradient(#4D8DD2, #8AF196); 
+    background: linear-gradient(to right ,rgba(69,133,212,0.7), rgba(139,242,148,0.7)),url(assets/home-bg.jpg) center center no-repeat  ;
+    background-size: cover;
+    
     color: white;
 }
 h1{
